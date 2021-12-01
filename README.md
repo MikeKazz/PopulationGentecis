@@ -1,0 +1,3 @@
+# PopulationGentecis
+
+🧬 naïve QTL analysis
